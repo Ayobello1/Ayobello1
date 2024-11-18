@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bello Ridwan! <br/><a href="https://github.com/Ayobello1">Data Analyst</a>, <a href="https://www.linkedin.com/in/ayobello1/"></a></h1>
+<h1>Hi, I'm Bello Ridwan! <br/><a href="https://github.com/Ayobello1">Data Analyst</a> <a href="https://www.linkedin.com/in/ayobello1/"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
